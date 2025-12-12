@@ -187,7 +187,7 @@ Close the charts to complete execution.
 ## How to Run
 
 **Step 1:**  
-Run `5.1.Latent_Model.py` to train the SVD model.
+Run `5.1.Latent_Model.py` to train the SVD model. (Two files are generated that are required for the `5.2.Latent_Recommender.py` {svd_model.pkl, movie_titles_clean.csv})
 
 **Step 2:**  
 After training completes, run `5.2.Latent_Recommender.py`.
