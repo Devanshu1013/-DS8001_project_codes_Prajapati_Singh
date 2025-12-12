@@ -34,7 +34,10 @@ Implemented approaches:
 - `Popularity_Based.py`  
 - `Hybrid_Based_Recommender.py`  
 - `5.1.Latent_Model.py`  
-- `5.2.Latent_Recommender.py`  
+- `5.2.Latent_Recommender.py`
+- `Latex_FInal_Report_code.tex` (Final_Report File but in tex format)
+- `DS8001_Project_Report_Prajapati_Singh.pdf` (Final Project Report)
+- `requirements.txt` 
 - `README.md`  
 
 ---
@@ -67,6 +70,8 @@ All scripts access data using paths such as:
 
 ### Required Libraries
 Install dependencies using:
+`requirements.txt` 
+or
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn nltk surprise
 ```
