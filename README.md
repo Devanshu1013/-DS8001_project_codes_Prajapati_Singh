@@ -41,6 +41,7 @@ Implemented approaches:
 
 ## Dataset
 The project uses **The Movies Dataset** from Kaggle.
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 Required files inside the `archive/` folder:
 - movies_metadata.csv  
@@ -196,4 +197,10 @@ Press **Enter**.
 The system will display:
 - Personalized movie recommendations  
 - RMSE results  
-- An error distribution chart  
+- An error distribution chart
+---
+## Contributors
+
+- [Devanshu Prajapati](https://github.com/Devanshu1013)
+- [Taran Veer Singh](https://github.com/<taran2812>)
+
