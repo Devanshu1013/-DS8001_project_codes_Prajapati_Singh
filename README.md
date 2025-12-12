@@ -202,5 +202,5 @@ The system will display:
 ## Contributors
 
 - [Devanshu Prajapati](https://github.com/Devanshu1013)
-- [Taran Veer Singh](https://github.com/<taran2812>)
+- [Taran Veer Singh](https://github.com/taran2812)
 
